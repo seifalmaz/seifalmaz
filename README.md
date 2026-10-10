@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
   <!-- Animated Header -->
@@ -215,4 +214,3 @@ I'm interested in opportunities involving **Data Science, Data Analytics, Busine
   *Turning data into insights. Insights into decisions. Decisions into impact.*
 
 </div>
-```
